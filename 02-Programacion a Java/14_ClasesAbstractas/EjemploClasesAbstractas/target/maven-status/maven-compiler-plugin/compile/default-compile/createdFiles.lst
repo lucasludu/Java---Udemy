@@ -1,0 +1,5 @@
+abstracto\domain\Triangulo.class
+abstracto\domain\Circulo.class
+abstracto\domain\FiguragGeometrica.class
+abstracto\domain\Rectangulo.class
+test\Main.class
